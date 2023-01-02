@@ -2,8 +2,8 @@
 
 @media screen and (min-width: 600px) and (max-width:768px) {
     header>p {
-        width: 450px;
-        padding-bottom: 81px;
+        width: 481px;
+        padding-bottom: 40px;
         padding-left: 49px;
         padding-right: 68px;
 
@@ -25,22 +25,23 @@
     }
 
     .img4 {
-        margin-left: 55px;
+        padding-left: 20px;
         width: 200px;
     }
 
     header>h1 {
         font-size: 4em;
         margin-top: 0px;
-        padding-top: 130px;
+        padding-top: 140px;
 
     }
 
     header>h2 {
-        padding-left: 50px;
+        height: 100px;
+        padding-left: 90px;
         font-size: 3em;
         padding-bottom: 50px;
-        padding-top: 50px;
+        padding-top: 0px;
 
 
     }
@@ -52,7 +53,7 @@
     }
 
     footer {
-        width: 565px;
+        width: 598px;
     }
 
 
