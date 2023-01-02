@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 375px) and (max-width:450px) {
+    header>p {
+        padding-left: 20px;
+        width: 318px;
+        padding-top: 135px;
+        padding-bottom: 21px;
+        margin-top: 20px;
+        background: none;
+        box-shadow: none;
+    }
+
+    .img1 {
+        margin-left: 20px;
+        margin-top: 30px;
+    }
+
+    header>h1 {
+        font-size: 3em;
+        width: 210px;
+        padding-left: 50px;
+        padding-top: 100px;
+
+    }
+
+    header>h2 {
+        padding-left: 50px;
+        font-size: 2em;
+        padding-bottom: 50px;
+        padding-top: 50px;
+
+
+    }
+
+    section {
+        width: 300px;
+        padding-left: 20px;
+        margin-left: 20px;
+    }
+
+    article>p {
+        margin-left: 20px;
+        width: 290px;
+        padding: 20px;
+
+    }
+
+    footer {
+        width: 356px;
+    }
+
+
+
+}
